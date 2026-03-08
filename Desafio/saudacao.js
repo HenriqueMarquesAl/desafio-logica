@@ -6,3 +6,6 @@ function criarSaudacao(canal, cliente) {
 }
 
 print(criarSaudacao(canal, cliente));
+
+
+
